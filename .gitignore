@@ -6,3 +6,4 @@ tags
 build/
 
 config/default.json
+config/production.json
